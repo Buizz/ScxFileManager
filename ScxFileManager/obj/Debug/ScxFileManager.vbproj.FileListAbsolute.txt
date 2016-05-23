@@ -1,0 +1,10 @@
+C:\Users\정훈\Documents\Visual Studio 2015\Projects\ScxFileManager\ScxFileManager\bin\Debug\ScxFileManager.exe
+C:\Users\정훈\Documents\Visual Studio 2015\Projects\ScxFileManager\ScxFileManager\bin\Debug\ScxFileManager.pdb
+C:\Users\정훈\Documents\Visual Studio 2015\Projects\ScxFileManager\ScxFileManager\bin\Debug\ScxFileManager.xml
+C:\Users\정훈\Documents\Visual Studio 2015\Projects\ScxFileManager\ScxFileManager\obj\Debug\ScxFileManager.vbprojResolveAssemblyReference.cache
+C:\Users\정훈\Documents\Visual Studio 2015\Projects\ScxFileManager\ScxFileManager\obj\Debug\ScxFileManager.Form1.resources
+C:\Users\정훈\Documents\Visual Studio 2015\Projects\ScxFileManager\ScxFileManager\obj\Debug\ScxFileManager.Resources.resources
+C:\Users\정훈\Documents\Visual Studio 2015\Projects\ScxFileManager\ScxFileManager\obj\Debug\ScxFileManager.vbproj.GenerateResource.Cache
+C:\Users\정훈\Documents\Visual Studio 2015\Projects\ScxFileManager\ScxFileManager\obj\Debug\ScxFileManager.exe
+C:\Users\정훈\Documents\Visual Studio 2015\Projects\ScxFileManager\ScxFileManager\obj\Debug\ScxFileManager.xml
+C:\Users\정훈\Documents\Visual Studio 2015\Projects\ScxFileManager\ScxFileManager\obj\Debug\ScxFileManager.pdb
